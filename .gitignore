@@ -1,0 +1,14 @@
+# AutoDock generated files
+*.map
+*.fld
+*.xyz
+*.glg
+*.gpf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
